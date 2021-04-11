@@ -1,7 +1,3 @@
-/* $Id: socket.c 1.1 1995/01/01 07:11:14 cthuang Exp $
- *
- * This module has been modified by Radim Kolar for OS/2 emx
- */
 
 /***********************************************************************
   module:       socket.c
